@@ -1,0 +1,10 @@
+.cats-background {
+    background-image: url("../../assets/images/gatotopo.jpg");
+    background-color: #cccccc;
+    min-height: 100px;
+    height: 6.5vw;
+    background-repeat: repeat; /* Do not repeat the image */
+    vertical-align: middle;
+    font-size: 5vw;
+    color: rgb(79, 4, 79);
+}
